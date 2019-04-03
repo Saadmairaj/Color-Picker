@@ -13,5 +13,5 @@ setup(
     copyright=meta.__copyright__,
     platform= meta.__platform__,
     # ...
-    py_modules=['Kivy Color ids', 'meta'],
+    py_modules=['Color-Picker', 'meta'],
  )
