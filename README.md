@@ -10,5 +10,4 @@ This App will help you to find the exact HEX, HSV, RGBA. The app is developed wi
 
 ## Version
   0.0.1
-  * Bug fixes
-  * Added support for retina display
+  * Initial release
